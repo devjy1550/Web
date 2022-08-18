@@ -1,0 +1,13 @@
+git init
+
+html 작성후
+
+git add .(점)
+
+git commit 는 왼쪽 ㅇㅇㅇ있는곳에서 해줌 , 이름지정해줘라
+
+git remote add 이름(원격저장소) 주소 , 이건 이름과 .git으로된주소를 써줘라, 연결할곳을 지정하는작업임
+
+git remote -v 로 상태확인가능
+
+git push -u 이름(원격저장소) 브렌치이름 ,  원격저장소의 이름이 john인셈이고, push는 위에서remote로 연결된곳에다가 밀어넣는작업임
